@@ -16,3 +16,9 @@ My name is Raeed I started programming at 12 years old and have been doing it fo
 - JavaScript (Intermediate)
 - Java (Beginner)
 - Python (Beginner)
+
+## Skills
+- Blogging
+- SEO
+- Web Development
+- API Development
