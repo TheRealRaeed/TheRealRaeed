@@ -1,7 +1,10 @@
 # Hi I'm Raeed 👋
 📍New Jersey, United States
+
 🌐 https://tritaba.tech
+
 ✍️ https://triteens.one
+
 ♉, 🖥️, 🎮, 🧑‍🎓
 
 ## Overview
