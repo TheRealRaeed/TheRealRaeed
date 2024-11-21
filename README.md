@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi I'm Raeed 👋
+📍New Jersey, United States
+🌐 https://tritaba.tech
+✍️ https://triteens.one
+♉, 🖥️, 🎮, 🧑‍🎓
 
-<!--
-**TheRealRaeed/TheRealRaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+My name is Raeed I started programming at 12 years old and have been doing it for about 4 years now. I'm currently in my final year of high school and looking forward to studying computer science next year in college. I run a blog for teens called [Triteens](https://triteens.one). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- HTML (Expert)
+- CSS (Intermediate)
+- JavaScript (Intermediate)
+- Java (Beginner)
+- Python (Beginner)
